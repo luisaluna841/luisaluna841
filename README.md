@@ -29,7 +29,7 @@ I believe knowledge is built through active learning — questioning assumptions
 
 ---
 
-## 🌐 Connect with Me
+## 🌐 Socials
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/maria-lu%C3%ADsa-brand%C3%A3o-611b79319/)
 [![Email](https://img.shields.io/badge/Email-red?style=for-the-badge&logo=gmail)](mailto:lusa_maria@yahoo.com.br)
@@ -37,7 +37,7 @@ I believe knowledge is built through active learning — questioning assumptions
 
 ---
 
-## ⚡ Techs & Tools
+## ⚡Tech Stack:
 
 ![Python](https://img.shields.io/badge/Python-blue?logo=python&logoColor=white)
 ![NumPy](https://img.shields.io/badge/NumPy-013243?logo=numpy)
