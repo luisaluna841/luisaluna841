@@ -31,7 +31,7 @@ I believe knowledge is built through active learning — questioning assumptions
 
 ## 🌐 Connect with Me
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/maria-lu%C3%ADsa-brand%C3%A3o-61b79319)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/maria-lu%C3%ADsa-brand%C3%A3o-611b79319/)
 [![Email](https://img.shields.io/badge/Email-red?style=for-the-badge&logo=gmail)](mailto:lusa_maria@yahoo.com.br)
 [![Substack](https://img.shields.io/badge/Substack-orange?style=for-the-badge&logo=substack)](https://substack.com/@marialuisaluna)
 
